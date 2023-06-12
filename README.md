@@ -1,5 +1,5 @@
 # zkp.bib
-`.bib` includes all zkp research papers
+A `.bib` file includes all the SOTA zkp research papers.
 
 
 ## Related Work
