@@ -1,4 +1,4 @@
-# zkp.bib
+# zkp.bib (WIP)
 A `.bib` file includes all the SOTA zkp research papers.
 
 
